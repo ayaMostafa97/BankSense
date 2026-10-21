@@ -32,3 +32,20 @@ BankSense/
 ├── documentation/         # Project documentation, data dictionaries, & reports
 ├── presentation/          # Project presentation slides
 └── screenshots/           # Dashboard visual previews
+📊 Key Dashboard Features & Metrics
+Customer Segmentation & Demographics: In-depth customer behavior and account distribution.
+
+Monthly Liquidity Trends: Time-series analysis of deposits, withdrawals, and cash flow.
+
+KPIs & Strategic DAX Measures: Custom DAX measures for dynamic calculations and KPIs.
+
+Interactive Slicers: Filtering by branch, product type, date range, and customer status.
+
+🚀 How to Run the Project
+Database Setup: Execute SQL scripts located in sql/ to build the database schema and populate tables.
+
+Data Cleaning: Explore notebooks/ to view Python preprocessing steps.
+
+Power BI Dashboard: Open .pbix file inside powerbi/ with Power BI Desktop to interact with the dashboard.
+
+Developed by Aya Mostafa
