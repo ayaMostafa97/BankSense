@@ -1,0 +1,53 @@
+# BankSense — Business Insights & Recommendations
+
+## 1. Key Business Insights
+
+### Insight 1 — Bill Payment Behavior
+
+Utility bill payments recorded the highest total payment value at **430,666.52**, with **244 payments** made by **147 unique customers**. Utility payments represent the largest share of bill-payment activity.
+
+### Insight 2 — Liquidity Trends
+
+The highest monthly net liquidity flow occurred in **July 2023**, reaching **62,533.45**. The highest monthly deposit value was recorded in **October 2023** at **81,734.01**. In contrast, **April 2021** recorded the lowest net liquidity flow at **-16,640.35**, indicating a period where withdrawals exceeded deposits.
+
+### Insight 3 — Customer Support Performance
+
+Account-related issues generated **288 out of 400 support tickets**, representing **72%** of all customer support interactions. Transaction-related issues had the lowest resolution rate at **88.31%**, with **9 pending cases**.
+
+### Insight 4 — High-Value Investment Customers
+
+**Arjun Rossi** recorded the highest combined deposits and investments at **135,095.20**, including **132,128.17** in investments. This indicates strong engagement with investment products among the highest-value customers.
+
+---
+
+## 2. Business Recommendations
+
+### Recommendation 1 — Strengthen Utility Payment Services
+
+Since utility payments represent the largest bill-payment category, the bank should consider improving and promoting utility payment services through targeted offers, simplified payment experiences, and customer engagement campaigns.
+
+### Recommendation 2 — Monitor Liquidity Fluctuations
+
+Management should monitor periods with negative net liquidity flow and investigate the causes of unusually high withdrawals. Monthly liquidity trends can be used to support cash-flow planning and operational decision-making.
+
+### Recommendation 3 — Improve Customer Support Operations
+
+Account-related issues should be prioritized because they represent the majority of support interactions. In addition, transaction-related pending cases should be reviewed to improve the lowest resolution rate among the identified issue types.
+
+### Recommendation 4 — Target High-Value Investment Customers
+
+Customers with high investment activity should be considered for personalized investment services, premium offerings, and targeted financial products to strengthen customer retention and increase investment engagement.
+
+---
+
+## 3. Decision-Making Impact
+
+The BankSense dashboard provides management with a consolidated view of customer activity, transaction flows, bill payments, investments, and customer support performance.
+
+The dashboard can support decisions related to:
+
+* **Liquidity monitoring:** Tracking deposits, withdrawals, and net liquidity trends over time.
+* **Customer segmentation:** Identifying customers with high financial activity and investment engagement.
+* **Service optimization:** Understanding which bill-payment services are most frequently used.
+* **Support improvement:** Monitoring ticket volumes, pending cases, and resolution performance.
+* **Business planning:** Using historical trends and customer behavior to support operational and strategic decisions.

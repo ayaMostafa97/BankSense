@@ -1,0 +1,7 @@
+id,name,description,category,average_amount
+1,deposit statement,The courier reported an unusual issue; the session was cancelled.,personal,1051.62
+2,loan exchange,The supplier reported a repeat issue; the shipment was refunded.,personal,27434.29
+3,fee adjustment,The account owner asked for a change and the session was cancelled.,business,6744.0
+4,purchase,"The booking was escalated — standard case, no further action.",business,19146.18
+5,credit,The account owner confirmed the details and the request was delayed.,personal,8977.83
+6,exchange credit adjustment,"The booking was completed — manual case, no further action.",business,31256.88
